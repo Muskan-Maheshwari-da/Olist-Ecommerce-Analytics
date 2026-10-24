@@ -1,9 +1,13 @@
 # Olist E-Commerce Performance & Executive Analytics
 
+[![Power BI Dashboard](https://img.shields.io/badge/📥_Power_BI_Dashboard-.PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./olist.pbix)
+[![Python Notebook](https://img.shields.io/badge/🐍_Python_ETL-.IPYNB-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Olist.ipynb)
+
 End-to-end analysis of a Brazilian online marketplace using **Python, SQL and Power BI**, to understand revenue, delivery performance and customer satisfaction.
 
-![Olist Executive Dashboard](images/Olist_dashboard_image.png)
+![Olist Executive Dashboard](./Olist%20dashboard%20image.png)
 
+---
 ## Business Problem
 Management wants to know how much revenue the marketplace generates, how often deliveries are late, how late deliveries affect customer reviews, and which regions need attention.
 
